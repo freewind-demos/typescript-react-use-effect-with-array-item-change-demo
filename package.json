@@ -3,10 +3,12 @@
     "demo": "webpack-dev-server --open"
   },
   "dependencies": {
+    "lodash": "4.17.15",
     "react": "16.9.0",
     "react-dom": "16.9.0"
   },
   "devDependencies": {
+    "@types/lodash": "4.14.149",
     "@types/node": "12.7.2",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
